@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="switch_on_amp_off_airplane_mode_to_see_the_n_toast_message"><![CDATA[Switch On & Off Airplane Mode to see the \n Toast Message]]></string>
+</resources>
